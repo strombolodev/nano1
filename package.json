@@ -1,0 +1,10 @@
+{
+  "name": "magnific-nano-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify proxy for Magnific Nano Banana Pro Flash",
+  "scripts": {
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod"
+  }
+}
